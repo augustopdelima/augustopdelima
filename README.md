@@ -6,7 +6,7 @@
 ### 🚀 About Me  
 - 🌱 Currently learning: **Golang, Flutter**  
 - 💬 Ask me about: **React, JavaScript, Python**  
-- 📫 Reach me at: **augustoo.pasqualidelima@gmail.com**
+- 📫 Reach me at: **augusto.pasqualidelima@gmail.com**
 
 ---
 
